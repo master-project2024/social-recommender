@@ -23,10 +23,10 @@ if choose == "Accueil" :
     st.write( "### Après avoir choisi un jeu de données et un fenêtrage, vous pouvez tester une image de la base de données et observer le prétraitement utilisé, l'extraction de ses caractéristiques et sa classification." )
 
 elif choose == "Prétraitement" :
-    
+    st.write( "### Nous sommes toujours ravis de votre contact!" )
     
 elif choose == "Classification" : 
-
+    st.write( "### Nous sommes toujours ravis de votre contact!" )
     
 elif choose == "Contact" :
     st.write( "### Nous sommes toujours ravis de votre contact!" )
